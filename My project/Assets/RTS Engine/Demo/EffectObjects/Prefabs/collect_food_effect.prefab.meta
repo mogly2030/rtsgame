@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 22d4332ccd8867a498d919ca036f6346
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/EffectObjects/Prefabs/collect_food_effect.prefab
+  uploadId: 673087

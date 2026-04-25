@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51be9824492d00544bddece36afdd40d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/BasicUI/Prefabs/UI.HoverHealthBar_Big.prefab
+  uploadId: 673087

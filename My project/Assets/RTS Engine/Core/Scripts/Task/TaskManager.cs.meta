@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 12a4bad4dc62fd741b4a26f6afedfe2b
+timeCreated: 1548610747
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 90
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Scripts/Task/TaskManager.cs
+  uploadId: 673087

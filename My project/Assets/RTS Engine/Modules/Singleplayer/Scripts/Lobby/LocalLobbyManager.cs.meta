@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 83c9660cc22800649ade093d96670101
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/Singleplayer/Scripts/Lobby/LocalLobbyManager.cs
+  uploadId: 673087

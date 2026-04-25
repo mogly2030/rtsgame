@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e4702ce13b1c901459bd9d1adc8c3a8a
+timeCreated: 1476874492
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 300
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Scripts/Faction/FactionManager.cs
+  uploadId: 673087

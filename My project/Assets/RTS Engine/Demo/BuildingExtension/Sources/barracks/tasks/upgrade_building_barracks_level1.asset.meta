@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4cc0c9da63afcbe4cb018f404b02a7af
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Sources/barracks/tasks/upgrade_building_barracks_level1.asset
+  uploadId: 673087

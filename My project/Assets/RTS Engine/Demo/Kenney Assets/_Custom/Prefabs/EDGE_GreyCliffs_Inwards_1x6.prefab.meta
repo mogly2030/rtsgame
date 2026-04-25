@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 957dcc97533f38549be648f506d61a90
+timeCreated: 1521899277
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/_Custom/Prefabs/EDGE_GreyCliffs_Inwards_1x6.prefab
+  uploadId: 673087

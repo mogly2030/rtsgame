@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b155cc48170db574c93fdf0b91220b17
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Editor/EntityComponent/UpgradeTaskDrawer.cs
+  uploadId: 673087

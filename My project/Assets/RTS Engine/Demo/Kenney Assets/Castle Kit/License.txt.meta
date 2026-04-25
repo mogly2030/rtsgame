@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31e17791d74ef114486b7be1b4ebc427
+timeCreated: 1501093996
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/Castle Kit/License.txt
+  uploadId: 673087

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d0de4108a438a3b438909b5561ca6f8f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Sources/house/house_easy_regulator_data.asset
+  uploadId: 673087

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 178b713b32fccd247a42925c0d7dd041
+timeCreated: 1542214828
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Resources/Prefabs/tower_level1.prefab
+  uploadId: 673087

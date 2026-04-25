@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c1038b80d358e29409c909c5a5dbb76a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Sources/barracks/tasks/create_unit_heavy_infantry.asset
+  uploadId: 673087

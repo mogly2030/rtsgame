@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 10b4433af7b1e03488ec75ca936d45f3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/ScriptableObjects/ControlTypes/control_zoom_to_mouse.asset
+  uploadId: 673087

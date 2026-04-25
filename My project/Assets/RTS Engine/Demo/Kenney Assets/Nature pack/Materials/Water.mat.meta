@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c9e8220f91f40948aa3723042429283
+timeCreated: 1430230526
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/Nature pack/Materials/Water.mat
+  uploadId: 673087

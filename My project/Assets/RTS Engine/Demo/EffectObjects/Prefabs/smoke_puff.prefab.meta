@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 038fd837f0a013c44ab51f5c2724204e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/EffectObjects/Prefabs/smoke_puff.prefab
+  uploadId: 673087

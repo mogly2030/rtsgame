@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f28c54bfb24b3a489502c2758d6e46e
+timeCreated: 1477386992
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Animation/Controllers/UnitAnimator.controller
+  uploadId: 673087

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ca7ffa76226e6e348acc2c732b0e900b
+timeCreated: 1522064551
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/_Custom/Prefabs/Rocks_group_large_centre.prefab
+  uploadId: 673087

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 67d25f8c9a0b0a640b935fd57e193410
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/BasicUI/Scripts/UI/RequirementDisplayUIHandler.cs
+  uploadId: 673087

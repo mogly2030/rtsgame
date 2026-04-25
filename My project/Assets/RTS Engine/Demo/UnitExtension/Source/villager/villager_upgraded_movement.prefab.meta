@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fbf711e32d9d80d4cb049f2e0bf3c85b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/UnitExtension/Source/villager/villager_upgraded_movement.prefab
+  uploadId: 673087

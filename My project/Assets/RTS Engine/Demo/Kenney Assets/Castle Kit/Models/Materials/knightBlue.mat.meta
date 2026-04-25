@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a4830c0bbd4ed1b429b693fa64d39323
+timeCreated: 1501093672
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/Castle Kit/Models/Materials/knightBlue.mat
+  uploadId: 673087

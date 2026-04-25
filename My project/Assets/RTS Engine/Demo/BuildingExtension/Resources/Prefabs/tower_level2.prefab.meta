@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 09e397eddace22c4c8752e88e879cc16
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Resources/Prefabs/tower_level2.prefab
+  uploadId: 673087

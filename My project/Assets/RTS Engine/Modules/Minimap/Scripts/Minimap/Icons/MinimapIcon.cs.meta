@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7fbc28b40b443a1498d5b798f9a7eefe
+timeCreated: 1521994785
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/Minimap/Scripts/Minimap/Icons/MinimapIcon.cs
+  uploadId: 673087

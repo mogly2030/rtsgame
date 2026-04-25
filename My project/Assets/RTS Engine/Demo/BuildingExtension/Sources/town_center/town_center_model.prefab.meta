@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 330225e03f07e5b4e9426af31340048a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Sources/town_center/town_center_model.prefab
+  uploadId: 673087

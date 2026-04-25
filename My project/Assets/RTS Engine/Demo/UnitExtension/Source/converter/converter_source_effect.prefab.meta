@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6e0df787e86d5c488e88ebae4a446d0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/UnitExtension/Source/converter/converter_source_effect.prefab
+  uploadId: 673087

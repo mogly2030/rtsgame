@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 424be3af6ad117140887d3e652a89d24
+timeCreated: 1431360962
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/_Custom/Materials/Dust.mat
+  uploadId: 673087

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a4aac6ac51c7cbc4391458ce674e3b3d
+timeCreated: 1522053587
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/Nature pack extended/Rot_sym_Coast
+    _deco_01.prefab
+  uploadId: 673087

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79ee872b942eedb4881a49a781700839
+timeCreated: 1490686774
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/EffectObjects/Materials/Dust.mat
+  uploadId: 673087

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a2ae07e5e47587646a0aa22b8e844c02
+timeCreated: 1521905013
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/_Custom/Prefabs/MapBorders_Edge_Corner23x23.prefab
+  uploadId: 673087

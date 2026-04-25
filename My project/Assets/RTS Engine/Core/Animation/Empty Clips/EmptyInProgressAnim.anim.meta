@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 55b2840a3c513db48b88350b9279297a
+timeCreated: 1529333320
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Animation/Empty Clips/EmptyInProgressAnim.anim
+  uploadId: 673087

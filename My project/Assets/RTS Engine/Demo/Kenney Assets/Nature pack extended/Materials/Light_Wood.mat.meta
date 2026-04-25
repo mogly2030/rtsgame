@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 652b5629477f3f94cbe8f3819ae0df8d
+timeCreated: 1466334984
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/Nature pack extended/Materials/Light_Wood.mat
+  uploadId: 673087

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c698b535c328a744f9cf0bfe99f05026
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/EffectObjects/Prefabs/upgrade_effect_small.prefab
+  uploadId: 673087

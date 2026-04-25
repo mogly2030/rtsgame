@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b809a48cc4ded8c48a25003d81c94bf1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/UnitExtension/Source/catapult/catapult_attack_animation.anim
+  uploadId: 673087

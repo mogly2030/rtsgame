@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3143341cdea69e7458595ab0c6ae171b
+timeCreated: 1430230526
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/_Custom/Materials/Resource.mat
+  uploadId: 673087

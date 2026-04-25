@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b29e284b59b8ca941b12ecbba0be4d68
+timeCreated: 1464949773
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/Modular Buildings/modularBuildings_100.mtl
+  uploadId: 673087

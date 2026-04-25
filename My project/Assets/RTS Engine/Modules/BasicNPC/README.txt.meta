@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 808422f4da9681649973baf2a3903405
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/BasicNPC/README.txt
+  uploadId: 673087

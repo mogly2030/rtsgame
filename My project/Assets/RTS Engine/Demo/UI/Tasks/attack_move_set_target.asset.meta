@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27e72b63eb4b08846ac6f33f33cf9e28
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/UI/Tasks/attack_move_set_target.asset
+  uploadId: 673087

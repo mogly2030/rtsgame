@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7c06412aa53d304082cb7513f062a71
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/ScriptableObjects/ControlTypes/control_selection_camera_follow.asset
+  uploadId: 673087

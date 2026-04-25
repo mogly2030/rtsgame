@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8bf60557aba27cd479648115db014ed7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/ScriptableObjects/ControlTypes/control_ui_escape.asset
+  uploadId: 673087

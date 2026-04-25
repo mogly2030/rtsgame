@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c4271cf7f06c9ab439347ac27dd72609
+timeCreated: 1539851499
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Scripts/Range.cs
+  uploadId: 673087

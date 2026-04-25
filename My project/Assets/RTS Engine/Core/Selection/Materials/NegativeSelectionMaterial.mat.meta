@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5215ea7138b4d6b48ad0a2a29de919c6
+timeCreated: 1486239682
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Selection/Materials/NegativeSelectionMaterial.mat
+  uploadId: 673087

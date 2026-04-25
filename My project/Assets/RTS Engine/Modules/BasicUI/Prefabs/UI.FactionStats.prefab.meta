@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb4dc02d182f6d04cafa65624c76c484
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/BasicUI/Prefabs/UI.FactionStats.prefab
+  uploadId: 673087

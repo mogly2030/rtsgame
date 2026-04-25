@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ac254ea55db643540a47af88e02dd273
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 580
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Scripts/Determinism/InputManager.cs
+  uploadId: 673087

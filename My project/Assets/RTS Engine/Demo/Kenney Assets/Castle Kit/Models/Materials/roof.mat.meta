@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b20f6b64f5070eb4f979efefeff1af34
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/Castle Kit/Models/Materials/roof.mat
+  uploadId: 673087

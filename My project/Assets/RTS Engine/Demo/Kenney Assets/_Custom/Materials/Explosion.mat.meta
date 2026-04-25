@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 87bf8b67d0a902842a3b617c1c75d6e5
+timeCreated: 1428489277
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/_Custom/Materials/Explosion.mat
+  uploadId: 673087

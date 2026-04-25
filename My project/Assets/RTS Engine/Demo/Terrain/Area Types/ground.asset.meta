@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37d2dffab9a31a84c81d764228531ba7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Terrain/Area Types/ground.asset
+  uploadId: 673087

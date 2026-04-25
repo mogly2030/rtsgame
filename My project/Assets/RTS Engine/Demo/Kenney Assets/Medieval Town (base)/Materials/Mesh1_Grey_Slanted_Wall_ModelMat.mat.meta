@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2de38291ecfc66649ad125251eb8f2e5
+timeCreated: 1525016120
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/Medieval Town (base)/Materials/Mesh1_Grey_Slanted_Wall_ModelMat.mat
+  uploadId: 673087

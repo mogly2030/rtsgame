@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 69b1443c79d71254a8ad862c759e75ca
+timeCreated: 1534266401
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Factions/Faction Types/survivors.asset
+  uploadId: 673087

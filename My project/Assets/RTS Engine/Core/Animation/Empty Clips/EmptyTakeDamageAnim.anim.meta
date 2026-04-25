@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c567a0c876c9f384fae21982e91215c5
+timeCreated: 1529333190
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Animation/Empty Clips/EmptyTakeDamageAnim.anim
+  uploadId: 673087

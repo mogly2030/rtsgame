@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 061c8973e3c577f4ea6c9b563d77bf00
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/UI/Tasks/set_target_movement.asset
+  uploadId: 673087

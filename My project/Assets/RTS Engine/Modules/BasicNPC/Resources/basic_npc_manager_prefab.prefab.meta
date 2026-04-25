@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0802863bc83c3a848afdcfd2f8d9201c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/BasicNPC/Resources/basic_npc_manager_prefab.prefab
+  uploadId: 673087

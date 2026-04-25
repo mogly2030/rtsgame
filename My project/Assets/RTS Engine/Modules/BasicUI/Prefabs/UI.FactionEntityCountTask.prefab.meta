@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4d24fba176fc9504f9d703af8a93989d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/BasicUI/Prefabs/UI.FactionEntityCountTask.prefab
+  uploadId: 673087

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 62ae56b7c290d474484dac47947225f6
+timeCreated: 1547834425
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Scripts/Selection/ResourceSelection.cs
+  uploadId: 673087

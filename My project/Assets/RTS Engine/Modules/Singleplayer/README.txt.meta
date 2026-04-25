@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 71164cdee5a47b24eba8d1c3d30db13d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/Singleplayer/README.txt
+  uploadId: 673087

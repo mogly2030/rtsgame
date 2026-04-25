@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bf0bccd92bcec124a955d8a727a3432b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/Singleplayer/Scripts/Lobby/ILocalLobbyFactionSlot.cs
+  uploadId: 673087

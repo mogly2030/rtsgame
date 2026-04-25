@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d96e88e1865f3d4f995ab72acec5bc6
+timeCreated: 1486239686
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Selection/Materials/selection_renderer_material.mat
+  uploadId: 673087

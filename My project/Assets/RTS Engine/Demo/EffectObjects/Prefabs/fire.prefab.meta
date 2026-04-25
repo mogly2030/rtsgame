@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ad8099d211de0634aa9d22d3fbd2ea7c
+timeCreated: 1530276987
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/EffectObjects/Prefabs/fire.prefab
+  uploadId: 673087

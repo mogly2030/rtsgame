@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a469285a05718844da52cf4a06ef2d11
+timeCreated: 1478353245
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Selection/Prefabs/mvt_target_effect.prefab
+  uploadId: 673087

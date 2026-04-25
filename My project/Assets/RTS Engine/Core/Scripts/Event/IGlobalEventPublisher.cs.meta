@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5cb3815b9b855d9488bfc3f1eb3395af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Scripts/Event/IGlobalEventPublisher.cs
+  uploadId: 673087

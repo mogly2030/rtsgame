@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 37e7179617d4f1140a3ce262aa9f3b3e
+timeCreated: 1522365723
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Scripts/Terrain/TerrainManager.cs
+  uploadId: 673087

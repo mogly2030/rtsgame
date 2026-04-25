@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 05555a21908ef7c4596999ecf58a6d08
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/AdvancedSelection/Scripts/Selection/SelectionCameraFollower.cs
+  uploadId: 673087

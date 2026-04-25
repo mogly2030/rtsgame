@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4ceb82b131b388842b245992e31b4f62
+timeCreated: 1531686162
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/UnitExtension/Source/heavy_infantry/heavy_infantry_attack_animator.overrideController
+  uploadId: 673087

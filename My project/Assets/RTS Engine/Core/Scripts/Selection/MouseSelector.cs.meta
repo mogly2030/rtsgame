@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 40165f57cfde79346b68bbd932a43133
+timeCreated: 1501893777
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 560
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Scripts/Selection/MouseSelector.cs
+  uploadId: 673087

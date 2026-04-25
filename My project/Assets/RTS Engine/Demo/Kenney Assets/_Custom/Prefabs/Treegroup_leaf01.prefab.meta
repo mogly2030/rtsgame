@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8d4bcf36ff60a364d9a50175ecff0f39
+timeCreated: 1521629813
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/_Custom/Prefabs/Treegroup_leaf01.prefab
+  uploadId: 673087

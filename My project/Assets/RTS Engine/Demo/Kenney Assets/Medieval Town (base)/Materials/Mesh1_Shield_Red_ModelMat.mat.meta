@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 94d570981d15e994493a9d50b4912dbe
+timeCreated: 1525016159
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/Medieval Town (base)/Materials/Mesh1_Shield_Red_ModelMat.mat
+  uploadId: 673087

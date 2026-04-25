@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 343c0e3d06e3c424d9ff97829f5f365b
+timeCreated: 1486239681
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/border/border_object_material.mat
+  uploadId: 673087

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dbf19af375c9ea5459750e769962f27c
+timeCreated: 1430141840
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/Medieval Town (base)/Materials/Light_Stone.mat
+  uploadId: 673087

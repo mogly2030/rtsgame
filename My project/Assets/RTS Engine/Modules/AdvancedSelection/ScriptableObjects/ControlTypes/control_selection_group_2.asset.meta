@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3dbde5f973e12774aa401e6c963c296b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/AdvancedSelection/ScriptableObjects/ControlTypes/control_selection_group_2.asset
+  uploadId: 673087

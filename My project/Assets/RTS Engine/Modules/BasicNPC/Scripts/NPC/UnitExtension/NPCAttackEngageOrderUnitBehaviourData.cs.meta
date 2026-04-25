@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 26c0bcda0710b2c4f855a7580629a359
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/BasicNPC/Scripts/NPC/UnitExtension/NPCAttackEngageOrderUnitBehaviourData.cs
+  uploadId: 673087

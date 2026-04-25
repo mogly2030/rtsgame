@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 09da0209e61a7674aa0ac000e70d24a2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Sources/barracks/tasks/create_unit_archer_level2.asset
+  uploadId: 673087

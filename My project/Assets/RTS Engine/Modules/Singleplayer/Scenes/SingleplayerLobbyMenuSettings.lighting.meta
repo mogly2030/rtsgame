@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9ec885a83cb111d43be7d8a7525b8ee6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/Singleplayer/Scenes/SingleplayerLobbyMenuSettings.lighting
+  uploadId: 673087

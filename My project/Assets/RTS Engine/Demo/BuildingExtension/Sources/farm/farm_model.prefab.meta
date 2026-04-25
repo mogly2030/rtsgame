@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 359dcd1d6b559864cacff65ba4dc8dcd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Sources/farm/farm_model.prefab
+  uploadId: 673087

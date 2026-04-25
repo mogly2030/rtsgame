@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4b5ebe2ebdec5f64cb19bf7bc5eb50bf
+timeCreated: 1522053089
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/_Custom/Prefabs/Island01.prefab
+  uploadId: 673087

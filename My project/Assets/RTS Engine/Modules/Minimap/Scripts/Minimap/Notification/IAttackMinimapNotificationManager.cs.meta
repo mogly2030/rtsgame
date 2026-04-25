@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 03d5a7421bf404b438a8ecf007db3c5d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/Minimap/Scripts/Minimap/Notification/IAttackMinimapNotificationManager.cs
+  uploadId: 673087

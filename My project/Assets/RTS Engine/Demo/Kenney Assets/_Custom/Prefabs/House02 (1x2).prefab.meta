@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fa4fbed8336d18e4bbaf44b5feb02c3d
+timeCreated: 1522073123
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/_Custom/Prefabs/House02 (1x2).prefab
+  uploadId: 673087

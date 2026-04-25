@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 92f07cf7e25f2fe4e83c78ff3ef3e44d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/BasicUI/Prefabs/DropOffResourceTaskUI_prefab.prefab
+  uploadId: 673087

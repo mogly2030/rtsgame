@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08e97aecfed345c4397d9c5e9054656b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/UnitExtension/Source/villager/tasks/create_building_temple.asset
+  uploadId: 673087

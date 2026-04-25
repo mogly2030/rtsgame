@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a3faa277c932c6b43b66c16650257147
+timeCreated: 1522921579
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/UnitExtension/Resources/Prefabs/converter.prefab
+  uploadId: 673087

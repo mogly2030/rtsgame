@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bdd268c3be6948e45b646d738aadbba9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/UnitExtension/Source/healer/healer_converter_progress_animation.anim
+  uploadId: 673087

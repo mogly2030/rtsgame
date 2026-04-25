@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e745e3ea211bdf24992e7e9963d084ff
+timeCreated: 1522922268
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/UnitExtension/Resources/Prefabs/archer_level1.prefab
+  uploadId: 673087

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 60bc8234d51b0664ca320a55465554cf
+timeCreated: 1523010352
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Resources/Prefabs/barracks_level1.prefab
+  uploadId: 673087

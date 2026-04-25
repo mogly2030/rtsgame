@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d8b60686fd2b68244a8847adc13f3195
+timeCreated: 1522929385
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/UnitExtension/Source/heavy_infantry/heavy_infantry_attack_animation.anim
+  uploadId: 673087

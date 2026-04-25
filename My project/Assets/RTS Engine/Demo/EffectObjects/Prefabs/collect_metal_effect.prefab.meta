@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c03ef73df651f6e47bdb5f430efeeb1e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/EffectObjects/Prefabs/collect_metal_effect.prefab
+  uploadId: 673087

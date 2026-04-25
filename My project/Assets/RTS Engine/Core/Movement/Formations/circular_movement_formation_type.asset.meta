@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5abc4719d7c003f4ab588b6e8649f63e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Movement/Formations/circular_movement_formation_type.asset
+  uploadId: 673087

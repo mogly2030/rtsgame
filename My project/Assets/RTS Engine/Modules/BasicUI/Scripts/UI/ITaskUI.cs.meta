@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 96590cc253bc79d44b646b58ec74bc00
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/BasicUI/Scripts/UI/ITaskUI.cs
+  uploadId: 673087

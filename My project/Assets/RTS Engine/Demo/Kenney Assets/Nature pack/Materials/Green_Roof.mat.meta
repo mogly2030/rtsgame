@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42ae7a06526d5a048a400dd3a6f949cb
+timeCreated: 1430230526
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/Nature pack/Materials/Green_Roof.mat
+  uploadId: 673087

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3dc31e7d4f846504ebd9a920a89f01a0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Sources/university/university_model.prefab
+  uploadId: 673087

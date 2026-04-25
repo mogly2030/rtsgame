@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 94dd691582cccf14f93ce4cc3a1b3d69
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/Castle Kit/Models/Materials/dark.mat
+  uploadId: 673087

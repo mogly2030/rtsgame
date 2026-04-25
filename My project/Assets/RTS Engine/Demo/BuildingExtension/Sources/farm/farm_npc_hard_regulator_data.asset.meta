@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 765f57e03afa49246b44de1e9368f8ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Sources/farm/farm_npc_hard_regulator_data.asset
+  uploadId: 673087

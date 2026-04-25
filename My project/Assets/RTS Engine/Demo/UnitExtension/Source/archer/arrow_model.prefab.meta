@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8a342bd4d05561c4a89c5b1e641853f3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/UnitExtension/Source/archer/arrow_model.prefab
+  uploadId: 673087

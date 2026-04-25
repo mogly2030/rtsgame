@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 676dc2b6d6504a04cb4e1845d7a2d03b
+timeCreated: 1529332950
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Animation/Controllers/DefaultOverrideController.overrideController
+  uploadId: 673087

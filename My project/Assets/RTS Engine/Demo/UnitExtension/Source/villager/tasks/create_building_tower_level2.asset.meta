@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c5739a16299981d488a186b4233754fd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/UnitExtension/Source/villager/tasks/create_building_tower_level2.asset
+  uploadId: 673087

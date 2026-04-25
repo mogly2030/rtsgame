@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 84cec21451d73674c84e19a3476b0cd2
+timeCreated: 1522852393
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/Castle Kit/Models/Materials/villager.mat
+  uploadId: 673087

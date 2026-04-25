@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c4c5f95d06932564c8672b4bafeb1b28
+timeCreated: 1426767120
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/EffectObjects/Materials/BuildingExplosionMaterial.mat
+  uploadId: 673087

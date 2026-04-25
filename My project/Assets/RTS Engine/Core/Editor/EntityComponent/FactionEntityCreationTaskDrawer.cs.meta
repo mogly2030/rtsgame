@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2252f465552bc1942a44fd8db1491bc8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Editor/EntityComponent/FactionEntityCreationTaskDrawer.cs
+  uploadId: 673087

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b80520a0749030f4ea6a9232c2e0596d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/_Custom/Materials/stone.mat
+  uploadId: 673087

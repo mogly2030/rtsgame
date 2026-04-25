@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 316fcbc9b7f66e2438bff8d4f55bdd66
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 12385, guid: 0000000000000000e000000000000000, type: 0}
+  disableValidation: 0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Editor/Experimental/RTSEngineEditorStyles.uss
+  uploadId: 673087

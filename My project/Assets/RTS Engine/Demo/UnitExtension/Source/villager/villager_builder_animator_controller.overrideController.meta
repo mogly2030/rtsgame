@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d65d52f89506f2478245fffbeab4379
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/UnitExtension/Source/villager/villager_builder_animator_controller.overrideController
+  uploadId: 673087

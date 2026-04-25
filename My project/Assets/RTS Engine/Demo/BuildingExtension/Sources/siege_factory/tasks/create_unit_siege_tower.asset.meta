@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca2c54d1de5a8cb4fb3279d8ae4548bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Sources/siege_factory/tasks/create_unit_siege_tower.asset
+  uploadId: 673087

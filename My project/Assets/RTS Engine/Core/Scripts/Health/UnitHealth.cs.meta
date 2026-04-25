@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d3fa461a43bafd643867159a6e2e38e0
+timeCreated: 1548078238
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 1800
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Scripts/Health/UnitHealth.cs
+  uploadId: 673087

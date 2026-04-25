@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c7646d0c8b965f4c8df51cd37905344
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Sources/barracks/barracks_model.prefab
+  uploadId: 673087

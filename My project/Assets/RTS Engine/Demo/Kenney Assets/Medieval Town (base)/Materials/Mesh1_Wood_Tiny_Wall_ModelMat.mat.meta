@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6bd541821acc6a046bf300bd428e8917
+timeCreated: 1525016224
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/Medieval Town (base)/Materials/Mesh1_Wood_Tiny_Wall_ModelMat.mat
+  uploadId: 673087

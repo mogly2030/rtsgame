@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2a9b4a0ea7501644cacb0728fd0926f7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Sources/barracks/barracks_npc_hard_regulator_data.asset
+  uploadId: 673087

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9a65d07f49e4aa74fa1d15fb626bc712
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Sources/town_center/tasks/upgrade_unit_villager.asset
+  uploadId: 673087

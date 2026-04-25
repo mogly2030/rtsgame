@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9ff3e35c2f0f294ca6ad4a98b106631
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Sources/town_center/town_center_npc_easy_npc_regulator_data.asset
+  uploadId: 673087

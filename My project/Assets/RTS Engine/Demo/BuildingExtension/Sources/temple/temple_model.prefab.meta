@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f7fc4508f169e034886a9aedd8896c9a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Sources/temple/temple_model.prefab
+  uploadId: 673087

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2619fe91a8daa2443ae6bfed2ee22ab9
+timeCreated: 1470407367
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/border/border_object.prefab
+  uploadId: 673087

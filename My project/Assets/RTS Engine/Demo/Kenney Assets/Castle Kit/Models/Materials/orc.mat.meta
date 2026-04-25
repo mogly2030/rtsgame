@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d72b823faad878f4aa959c1d3c82d6b1
+timeCreated: 1523884520
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/Castle Kit/Models/Materials/orc.mat
+  uploadId: 673087

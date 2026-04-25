@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5753921ccbe21134dad27bb458d7cfb5
+timeCreated: 1548078239
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 1900
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Scripts/EntityComponent/UnitMovement.cs
+  uploadId: 673087

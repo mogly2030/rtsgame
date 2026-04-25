@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 763ab939493f03c46b113374e1a166f7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/BuildingExtension/Resources/Prefabs/house.prefab
+  uploadId: 673087

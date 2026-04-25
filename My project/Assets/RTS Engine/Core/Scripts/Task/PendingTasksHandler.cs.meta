@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6873ac66dad55e8468bdf59e2a9eaeeb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Scripts/Task/PendingTasksHandler.cs
+  uploadId: 673087

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8199be5f1029a7846a7ae8aa77e8992e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/MapObjects/obstacle_rock_6.prefab
+  uploadId: 673087

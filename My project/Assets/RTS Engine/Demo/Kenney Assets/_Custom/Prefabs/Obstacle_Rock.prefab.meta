@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e5e26d565e4f71e47a10425f3d294ca4
+timeCreated: 1522339369
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/_Custom/Prefabs/Obstacle_Rock.prefab
+  uploadId: 673087

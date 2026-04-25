@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02fd2794f3a84324d92bd033163b3580
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Menu/MainMenuSettings.lighting
+  uploadId: 673087

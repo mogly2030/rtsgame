@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 239dea5d45508d044a06fb2f5b85558a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/UnitExtension/Resources/Prefabs/catapult.prefab
+  uploadId: 673087

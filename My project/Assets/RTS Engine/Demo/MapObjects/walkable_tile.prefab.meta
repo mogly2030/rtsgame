@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b90ba82cdc537dc499cf7d24558805e4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/MapObjects/walkable_tile.prefab
+  uploadId: 673087

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 165265fb021196443a4c1cdfd3a5b40f
+timeCreated: 1521633548
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Kenney Assets/_Custom/Prefabs/Hill_Rockgroup01.prefab
+  uploadId: 673087

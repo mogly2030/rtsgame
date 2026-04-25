@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5b898f9d066abf74b90416b3244b3701
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Scripts/UI/EntityComponentTaskUIAttributes.cs
+  uploadId: 673087

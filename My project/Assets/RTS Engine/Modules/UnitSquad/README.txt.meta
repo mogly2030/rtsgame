@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: da881af861144fa4b83d3ae49f27a558
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/UnitSquad/README.txt
+  uploadId: 673087

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15f912c9e00d01f42976376e8fdf6187
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/Minimap/Cameras/minimapUICamera.renderTexture
+  uploadId: 673087

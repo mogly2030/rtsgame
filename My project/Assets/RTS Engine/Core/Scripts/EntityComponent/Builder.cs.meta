@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9c1e885e8e7860a4f8cceb9aac61c68c
+timeCreated: 1466169263
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Scripts/EntityComponent/Builder.cs
+  uploadId: 673087

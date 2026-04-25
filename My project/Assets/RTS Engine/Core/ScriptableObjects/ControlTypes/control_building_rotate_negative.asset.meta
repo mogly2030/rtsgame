@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 633677c52ea870b4c84c442764196640
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/ScriptableObjects/ControlTypes/control_building_rotate_negative.asset
+  uploadId: 673087

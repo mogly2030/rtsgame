@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 53ebac442b16db64f9177d0c749cbb06
+timeCreated: 1530276987
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/EffectObjects/Prefabs/fire_lowpoly.prefab
+  uploadId: 673087

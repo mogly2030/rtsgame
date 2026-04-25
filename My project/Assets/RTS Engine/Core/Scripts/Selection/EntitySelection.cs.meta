@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 97bb5e67fe20dd7429609bb462c9d71e
+timeCreated: 1547833979
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Core/Scripts/Selection/EntitySelection.cs
+  uploadId: 673087

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9ea581b53788dfa46b9f06114f307049
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Demo/UnitExtension/Source/villager/villager_dropOff_animation.anim
+  uploadId: 673087

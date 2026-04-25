@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8347275dbbc1de84c9fa325f961fc3ef
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79732
+  packageName: RTS Engine 2024
+  packageVersion: 2024.0.1
+  assetPath: Assets/RTS Engine/Modules/Singleplayer/Prefabs/LocalLobbyFactionSlot.prefab
+  uploadId: 673087
